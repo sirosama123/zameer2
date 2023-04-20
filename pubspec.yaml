@@ -106,6 +106,7 @@ dependencies:
   fl_chart: ^0.61.0
   syncfusion_flutter_charts: ^20.4.54
   uuid: ^3.0.7
+  flutter_chat_bubble: ^2.0.2
 
 dev_dependencies:
   flutter_test:
